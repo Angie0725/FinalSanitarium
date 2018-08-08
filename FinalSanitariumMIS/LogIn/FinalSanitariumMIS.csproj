@@ -64,6 +64,12 @@
     <Compile Include="HRMainMenu.Designer.cs">
       <DependentUpon>HRMainMenu.cs</DependentUpon>
     </Compile>
+    <Compile Include="InventoryManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryManagement.Designer.cs">
+      <DependentUpon>InventoryManagement.cs</DependentUpon>
+    </Compile>
     <Compile Include="MedDirMainMenu.cs">
       <SubType>Form</SubType>
     </Compile>

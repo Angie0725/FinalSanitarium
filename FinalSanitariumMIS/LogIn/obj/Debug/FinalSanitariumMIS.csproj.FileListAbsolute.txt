@@ -12,3 +12,6 @@ C:\Users\Angelie Buen\documents\visual studio 2015\Projects\FinalSanitariumMIS\L
 C:\Users\Angelie Buen\documents\visual studio 2015\Projects\FinalSanitariumMIS\LogIn\obj\Debug\FinalSanitariumMIS.csproj.GenerateResource.Cache
 C:\Users\Angelie Buen\documents\visual studio 2015\Projects\FinalSanitariumMIS\LogIn\obj\Debug\LogIn.exe
 C:\Users\Angelie Buen\documents\visual studio 2015\Projects\FinalSanitariumMIS\LogIn\obj\Debug\LogIn.pdb
+C:\Users\Angelie Buen\Documents\GitHub\FinalSanitarium\FinalSanitariumMIS\LogIn\bin\Debug\LogIn.exe.config
+C:\Users\Angelie Buen\Documents\GitHub\FinalSanitarium\FinalSanitariumMIS\LogIn\obj\Debug\LogIn.exe
+C:\Users\Angelie Buen\Documents\GitHub\FinalSanitarium\FinalSanitariumMIS\LogIn\obj\Debug\LogIn.pdb
